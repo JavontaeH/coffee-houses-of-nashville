@@ -7,7 +7,6 @@ body {
   display: flex;
   justify-content: center;
   color: #37251b;
-  text-decoration-line: underline;
 }
 
 .list {
@@ -27,6 +26,7 @@ body {
 .shop h2 {
   display: flex;
   justify-content: center;
+  text-decoration-line: underline;
 }
 
 .shop p {

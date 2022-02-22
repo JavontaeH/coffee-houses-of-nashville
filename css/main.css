@@ -1,0 +1,47 @@
+body {
+  background-color: #d2c1b0;
+  font-family: sans-serif;
+}
+
+.pageHeader h1 {
+  display: flex;
+  justify-content: center;
+  color: #37251b;
+  text-decoration-line: underline;
+}
+
+.list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.shop {
+  width: 30%;
+  border: 3px solid #37251b;
+  border-radius: 3px;
+  margin: 6px;
+  background-color: #eff3fb;
+  color: #80411e;
+}
+.shop h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.shop p {
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  color: #ad6d2f;
+}
+
+.menuWebsite {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 3px;
+}
+
+a {
+  color: #37251b;
+}
